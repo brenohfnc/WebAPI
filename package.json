@@ -1,0 +1,10 @@
+{
+  "name": "web-api-ong",
+  "version": "0.0.1",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "~4.0.0",
+    "mongodb": "^2.2.26"
+  }
+}
